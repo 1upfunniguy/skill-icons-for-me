@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape by Vulphere (http://www.inkscape.org/) -->
+<svg width="90.13473mm" height="90.13473mm" version="1.1" viewBox="0 0 90.13473 90.13473" xmlns="http://www.w3.org/2000/svg">
+<title>Steam Deck logo (blue background)</title>
+<desc>Portable gaming console by Valve Corporation</desc>
+ <defs>
+  <clipPath id="clipPath68">
+   <path d="m0 3801.14h2555v-2555h-2555z"/>
+  </clipPath>
+  <linearGradient id="linearGradient74" x2="1" gradientTransform="matrix(2473.7,-2218.2,2218.2,2473.7,47.1154,3626.94)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#5b95d6" offset="0"/>
+   <stop stop-color="#6a3da1" offset="1"/>
+  </linearGradient>
+  <clipPath id="clipPath84">
+   <path d="m851.672 3019.16h836.178v-1045.23h-836.178z"/>
+  </clipPath>
+ </defs>
+ <g transform="translate(-66.1927 -5.505389)">
+  <g transform="matrix(.03527778 0 0 -.03527778 66.1927 139.6012)">
+   <g clip-path="url(#clipPath68)">
+    <path d="m0 3801.14h2555v-2555h-2555v2555" fill="url(#linearGradient74)"/>
+   </g>
+   <g clip-path="url(#clipPath84)" fill="#1c1a19">
+    <path d="m1115.59 1973.93v187.65c44.84-0.65 89.38 7.54 131 24.08s79.51 41.12 111.46 72.29 57.32 68.32 74.63 109.29c17.32 40.96 26.23 84.93 26.23 129.34s-8.91 88.38-26.23 129.34c-17.31 40.97-42.68 78.12-74.63 109.29s-69.84 55.74-111.46 72.29c-41.62 16.54-86.16 24.73-131 24.08v187.58c139.99 0 274.24-55.06 373.23-153.07s154.6-230.94 154.6-369.55c0-138.6-55.61-271.53-154.6-369.54s-233.24-153.07-373.23-153.07"/>
+    <path d="m1115.59 2234.73c145.75 0 263.91 116.99 263.91 261.31 0 144.31-118.16 261.31-263.91 261.31-145.762 0-263.918-117-263.918-261.31 0-144.32 118.156-261.31 263.918-261.31"/>
+    <path d="m1605.86 2853h-14.47v8.53h39v-8.53h-14.47v-38.76h-10.06v38.76"/>
+    <path d="m1687.92 2861.52v-47.28h-9.62v30.09l-12.81-28.66h-6.51l-13.1 28.66v-29.74h-8.61v47.29h9.62l16.14-33.6 14.9 33.6 9.99-0.36"/>
+   </g>
+  </g>
+ </g>
+</svg>
